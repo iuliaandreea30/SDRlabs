@@ -26,3 +26,6 @@
 | release_year | int |
 | rating | string |
 | description | string |
+
+
+# SDRlabs - Laborator 3 Recombee - Datele au fost incarcate in Recombee
